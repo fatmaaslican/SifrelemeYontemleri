@@ -1,0 +1,3 @@
+Kriptoloji projesi, kripto aracý
+çeþitli þifreleme yöntemlerini içermekte.
+netbeans ile açýlmakta.
